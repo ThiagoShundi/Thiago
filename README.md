@@ -1,8 +1,8 @@
-<h2>Olá! Eu sou o Thiago Hayashi<h2>
+###Olá! Eu sou o Thiago Hayashi
 
-<h2>Tecnologias e Ferramentas<h2>
+###Tecnologias e Ferramentas
 
-<h2>Contato<h2>
+###Contato
 
 <div>
 <a href="https://www.linkedin.com/in/thiago-hayashi-037732109/" target="link"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="link"></a>
