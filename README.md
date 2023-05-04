@@ -59,11 +59,11 @@ Agora, estou animado e motivado em aplicar e aperfeiçoar meus conhecimentos em 
 <table>
 <tr><td>
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoShundi&layout=compact&theme=algolia&hide_border=True&line_height=50&PAT_1)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoShundi&layout=compact&theme=algolia&hide_border=True&line_height=50&PAT_1" />
   </a>
 </td><td>
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoShundi&layout=compact&theme=algolia&show_icons=true&hide_border=True&line_height=20&PAT_1)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoShundi&layout=compact&theme=algolia&show_icons=true&hide_border=True&line_height=20&PAT_1" />
   </a>
 </td></tr>
 </table>
