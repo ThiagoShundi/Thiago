@@ -54,3 +54,9 @@ Agora, estou animado e motivado em aplicar e aperfeiçoar meus conhecimentos em 
   <a href="https://www.facebook.com/Shundi.Hayashi/" target="_blank"><img src="https://img.icons8.com/fluency/48/null/facebook.png" target="_blank">  </a> 
 </div>
 
+---
+
+| [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoShundi&layout=compact&theme=algolia&hide_border=True&line_height=20&PAT_1)](https://github.com/ThiagoShundi/github-readme-stats)
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoShundi)](https://github.com/ThiagoShundi/github-readme-stats)
+
+
