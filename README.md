@@ -1,6 +1,24 @@
-### Olá! Eu sou o Thiago Hayashi
+### Olá! Eu sou o Thiago Hayashi,
+
+<div>
+Sou formado em Engenharia Mecânica, porém me encontrei mesmo foi na área de tecnologia, sigo minha jornada para me tornar um programador Full-Stack.
+Agora, estou animado e motivado em aplicar e aperfeiçoar meus conhecimentos em tecnologias como JavaScript, TypeScript, React, Node.js e Python, para criar soluções e inovações.
+</div>
+
+### Hobbies
+
+<ul align="justify">
+  <li>🎾 Gosto de jogar beach tennis</li>
+  <li>🏋️ Ir para a academia</li>
+  <li>🎵 Ir para festivais de musica eletrônica</li>
+  <li>🎮 Nas horas vagas jogar alguns games</li>
+</ul>
 
 ### Tecnologias e Ferramentas
+
+<div>
+ 
+</div>
 
 ### Contato
 
