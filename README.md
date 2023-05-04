@@ -56,5 +56,10 @@ Agora, estou animado e motivado em aplicar e aperfeiçoar meus conhecimentos em 
 
 ---
 
+<table>
+<tr><td>
 [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoShundi&layout=compact&theme=algolia&hide_border=True&line_height=50&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+</td><td>
 [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoShundi&layout=compact&theme=algolia&show_icons=true&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+</td></tr>
+</table>
