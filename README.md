@@ -41,8 +41,8 @@ Agora, estou animado e motivado em aplicar e aperfeiçoar meus conhecimentos em 
 <a href="https://www.typescriptlang.org/pt/" target="_blank"><img src="https://img.icons8.com/color/48/null/typescript.png" target="_blank"></a>
 <a href="https://jestjs.io" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" target="_blank"></a>
 <a href="https://eslint.org" target="_blank"><img src="https://img.icons8.com/color/48/null/eslint.png" target="_blank"></a>
-<a href="https://eslint.org" target="_blank"><img src="https://img.icons8.com/color/48/null/eslint.png" target="_blank"></a>
-<a href="https://eslint.org" target="_blank"><img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" target="_blank"></a> 
+<a href="https://eslint.org" target="_blank"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" target="_blank"></a> 
+<a href="https://eslint.org" target="_blank"><img src="https://img.icons8.com/color/48/spring-logo.png" target="_blank"></a> 
 </div>
 
 ---
