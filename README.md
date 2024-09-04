@@ -3,8 +3,8 @@
 ---
 
 <div>
-Sou formado em Engenharia Mecânica, porém me encontrei mesmo foi na área de tecnologia, sigo minha jornada para me tornar um programador Full-Stack.
-Agora, estou animado e motivado em aplicar e aperfeiçoar meus conhecimentos em tecnologias como JavaScript, TypeScript, React, Node.js e Python, para criar soluções e inovações.
+Sou formado em Engenharia Mecânica, com experiências em projetar, implementar e acompanhar projetos, utilizando de boas análise críticas, coordenação e liderança. Atualmente sou desenvolvedor
+Web Fullstack, estou buscando oportunidades para aprender e aplicar meus conhecimentos, visando o crescimento profissional e pessoal.
 </div>
 
 ---
